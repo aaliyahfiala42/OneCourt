@@ -4,10 +4,10 @@ The purpose of this repository is to store the object and event detection models
 
 
 ### Tennis Key milestones
- - [ ] Train tennis model to track ball location
- - [ ] Train tennis model to track player locations
+ - [X] Train tennis model to track ball location
+ - [X] Train tennis model to track player locations
  - [ ] Train tennis model to track key actions (bounce, hit, air)
- - [ ] Homography estimations for tennis court positions
+ - [X] Homography estimations for tennis court positions
  - [ ] Train tennis model to track game events (score, out, etc.)
  - [ ] Explore designing a single model architecture to track all of the details that we want to improve inference and scalability
  - [ ] Upload model to server and connect it to the device
