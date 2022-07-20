@@ -21,3 +21,4 @@ The purpose of this repository is to store the object and event detection models
 Tennis: 
 * Tennis Tracking: https://github.com/ArtLabss/tennis-tracking 
 * TrackNet: https://arxiv.org/abs/1907.03698 
+* YOLOv3: https://pjreddie.com/darknet/yolo/ 
